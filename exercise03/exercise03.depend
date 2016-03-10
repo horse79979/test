@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457603597 source:/home/ron/下載/hpcexercise/exercise03/ex01_hello.cpp
+	<iostream>
+	<cstdlib>
+
+1457606397 source:/home/ron/下載/hpcexercise/exercise03/main.cpp
+	<iostream>
+
